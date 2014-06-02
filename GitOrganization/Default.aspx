@@ -42,6 +42,8 @@
 
         <asp:label ID="LblOrg" runat="server" Text="OrganizationSample" Font-Size="Larger" ForeColor="Red"></asp:label>
 
+        <asp:Button ID="BtnSubmit" runat="server" Text="Submit" />
+
     </div>
 
 </asp:Content>

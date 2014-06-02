@@ -21,4 +21,13 @@ Partial Public Class _Default
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents LblOrg As Global.System.Web.UI.WebControls.Label
+
+    '''<summary>
+    '''BtnSubmit control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents BtnSubmit As Global.System.Web.UI.WebControls.Button
 End Class
